@@ -4,7 +4,7 @@
 
 ###### Fork and customize your own with a beautiful [blurry background image](https://google.com/search?q=free+blurry+backgrounds&oq=free+blurry+backgrounds)
 
-[[](screenshot.png)](https://sindresorhus.com/hi)
+[![](screenshot.png)](https://sindresorhus.com/hi)
 
 [![](screenshot-mobile.png)](https://sindresorhus.com/hi)
 
